@@ -10,7 +10,7 @@
 // 2chi masala
 // let a = 10;
 // for (let i = 1; i <= a; i++) {
-//     console.log(i * i * i);
+//     console.log(i **i);
 // }
 
 
@@ -30,6 +30,9 @@
 //     result += i * i;
 // }
 // console.log(result);
+
+
+
 
 
 // 6chi masala
