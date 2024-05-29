@@ -15,12 +15,12 @@
 
 
 // 3chi masala
-// let a = 20;
-// let result=0;
-// for (let i = 1; i <= a; i++) {
-// result+=i;
-// }
-// console.log(result);
+let a = 1;
+for (let i=1;i<=20;i++ ){
+a=a*i;
+console.log(a);
+}
+
 
 
 // 4chi masala
